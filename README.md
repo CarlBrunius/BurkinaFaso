@@ -7,8 +7,8 @@ Buck M, Nilsson LKJ, Brunius C, Dabire RK, Hopkins R and Terenius O. Bacterial a
 file | description
 :--- | :----------
 RF-Func.r | Functions to perform rdCV-RF with unbiased variable selection
-RF-BurkinaFaso.r | Script to perform predictive RF-classification of mosquitoes by OTU
+RF-BurkinaFaso.r | Script to perform predictive RF-classification of mosquitoes by OTU and to produce RF and permutation figures (or reproduce those in the manuscript using data from 'modelData.RData')
 metaOtus.RData | OTUs and metadata
-modelData.RData | Data from actual modelling in manuscript and code to reproduce RF and permutation figures
+modelData.RData | Data from actual modelling in manuscript
 
 Author: Carl Brunius <carl.brunius@slu.se>
